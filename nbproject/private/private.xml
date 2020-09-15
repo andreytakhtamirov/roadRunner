@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
+        <file>
+            <url>src/pacman/Enemy.java</url>
+            <bookmark id="1">
+                <name/>
+                <line>67</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/andre/pacman/src/roadRunner/input.java</file>
+            <file>file:/C:/Users/andre/pacman/src/roadRunner/Coin.java</file>
+            <file>file:/C:/Users/andre/pacman/src/roadRunner/Enemy.java</file>
+            <file>file:/C:/Users/andre/pacman/src/roadRunner/GameGUI.java</file>
+            <file>file:/C:/Users/andre/pacman/src/roadRunner/TitleScreen.java</file>
+            <file>file:/C:/Users/andre/pacman/src/roadRunner/scoreIO.java</file>
+            <file>file:/C:/Users/andre/pacman/src/roadRunner/Player.java</file>
+        </group>
+    </open-files>
+</project-private>
